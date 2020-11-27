@@ -1,2 +1,0 @@
-# excel-learn
-Learn JavaScript
